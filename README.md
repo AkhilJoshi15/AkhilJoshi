@@ -29,7 +29,7 @@
 
 ###
 
-<h3>Certifications</h3>
+<h3>Certifications:</h3>
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals%20(AZ-900)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Fundamentals" />
   <img src="https://img.shields.io/badge/Microsoft%20Azure%20Developer%20Associate%20(AZ-204)-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate" />
