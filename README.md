@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akhil Joshi</h2>
+<h2 align="left">Hi 👋!</h2>
 
 <p>🚀 <strong> Cloud Engineer & Full Stack Developer</strong></p>
 
